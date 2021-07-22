@@ -38,11 +38,6 @@ const Navbar = () => {
                 <a className="nav-link">Contacto</a>
                 </Link>
               </li>
-              <li className="nav-item">
-                <Link href="/pruebas">
-                <a className="nav-link">Pruebas</a>
-                </Link>
-              </li>
             </ul>
             <span className="navbar-text">
               <a className="nav-link"><i style={{marginRight: '10px'}} className="bi bi-whatsapp" /> +569 89523359</a>
